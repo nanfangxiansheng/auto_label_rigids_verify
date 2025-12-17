@@ -2,11 +2,11 @@
 
 自动刚体标注后标注的中心点在刚体的中心位置（从robotwin刚体配套的json文件extents字段获得），标注方向为，标注scale一般采用robotwin的json文件中的scale字段：
 
-![cube_correct](C:\Users\26871\Desktop\cube_correct.png)
+<img width="2559" height="1489" alt="image" src="https://github.com/user-attachments/assets/0d3aa7df-e7fb-4c16-8063-8f94ef100395" />
 
 以及：
 
-![correct_place](C:\Users\26871\Desktop\correct_place.png)
+<img width="2206" height="1183" alt="image" src="https://github.com/user-attachments/assets/3fd7236b-b4ac-4d01-82e0-c53ae229a477" />
 
 ## 标注文件脚本说明：
 
