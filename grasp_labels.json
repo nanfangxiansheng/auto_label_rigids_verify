@@ -50,7 +50,7 @@
   "022_cup-with-liquid": true,
   "062_plasticbox": false,
   "081_playingcards": false,
-  "035_apple": true,
+  "035_apple": false,
   "091_kettle": false,
   "021_cup": true,
   "012_plant-pot": false,
